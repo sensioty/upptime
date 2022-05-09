@@ -14,11 +14,13 @@ sites:
   - name: Klaudia.io API
     icon: https://app.klaudia.io/de/assets/favicon-32x32.png
     url: $URL_API_SERVER
-  - name: Gateway MQTT
-    icon: https://app.klaudia.io/de/assets/favicon-32x32.png
-    check: "tcp-ping"
-    url: $URL_GATEWAY_MQTT
-    port: 1883
+  # TCP ping seems not to work
+  # See also: https://github.com/upptime/upptime/issues/436
+  #- name: Gateway MQTT
+  #  icon: https://app.klaudia.io/de/assets/favicon-32x32.png
+  #  check: "tcp-ping"
+  #  url: $URL_GATEWAY_MQTT
+  #  port: 1883
 
 assignees: # Users to assign downtime issues (optional)
   - UncleSamSwiss
