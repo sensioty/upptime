@@ -4,7 +4,21 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Sensioty Website
+    icon: https://www.sensioty.ch/wp-content/uploads/2020/09/Favicon_32.png
     url: https://www.sensioty.ch
+    assignees:
+      - sdnussb
+  - name: Klaudia.io Application
+    icon: https://app.klaudia.io/de/assets/favicon-32x32.png
+    url: https://app.klaudia.io
+  - name: Klaudia.io API
+    icon: https://app.klaudia.io/de/assets/favicon-32x32.png
+    url: $URL_API_SERVER
+  - name: Gateway MQTT
+    icon: https://app.klaudia.io/de/assets/favicon-32x32.png
+    check: "tcp-ping"
+    url: $URL_GATEWAY_MQTT
+    port: 1883
 
 assignees: # Users to assign downtime issues (optional)
   - UncleSamSwiss
