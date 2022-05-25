@@ -40,17 +40,19 @@
     "url": "$URL_API_SERVER",
     "icon": "https://app.klaudia.io/de/assets/favicon-32x32.png",
     "slug": "klaudia-io-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 854,
-    "timeWeek": 938,
-    "timeMonth": 815,
-    "timeYear": 815,
-    "dailyMinutesDown": {}
+    "time": 787,
+    "timeDay": 561,
+    "timeWeek": 855,
+    "timeMonth": 787,
+    "timeYear": 787,
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   }
 ]
