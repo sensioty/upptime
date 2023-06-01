@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1832,
-    "timeDay": 3379,
-    "timeWeek": 4007,
-    "timeMonth": 3220,
-    "timeYear": 1781,
+    "time": 1837,
+    "timeDay": 4101,
+    "timeWeek": 4085,
+    "timeMonth": 3414,
+    "timeYear": 1790,
     "dailyMinutesDown": {
       "2023-02-27": 19,
       "2023-02-14": 33,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.58%",
     "time": 527,
-    "timeDay": 505,
-    "timeWeek": 553,
+    "timeDay": 647,
+    "timeWeek": 565,
     "timeMonth": 551,
-    "timeYear": 531,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2022-09-08": 460,
       "2022-09-07": 1440,
@@ -69,16 +69,16 @@
     "icon": "https://app.klaudia.io/de/assets/favicon-32x32.png",
     "slug": "klaudia-io-api",
     "status": "up",
-    "uptime": "92.63%",
+    "uptime": "92.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.62%",
+    "uptimeYear": "93.89%",
     "time": 795,
-    "timeDay": 580,
-    "timeWeek": 708,
-    "timeMonth": 760,
-    "timeYear": 801,
+    "timeDay": 947,
+    "timeWeek": 760,
+    "timeMonth": 765,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2023-04-20": 51,
       "2022-11-24": 17,
@@ -112,8 +112,7 @@
       "2022-06-05": 947,
       "2022-06-04": 1408,
       "2022-06-03": 1440,
-      "2022-06-02": 1440,
-      "2022-06-01": 1382
+      "2022-06-02": 1440
     }
   }
 ]
